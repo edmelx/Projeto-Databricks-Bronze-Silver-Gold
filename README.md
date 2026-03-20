@@ -18,3 +18,5 @@ Esse projeto também visa demonstrar que posso trabalhar com Databricks usando o
 
  https://dbc-73c051ab-4cc4.cloud.databricks.com/dashboardsv3/01f1245e169112408cc5b104d17f619c/published?o=7474656016635469
  link da dashboard
+
+Para mais detalhes, fico à disposição.
